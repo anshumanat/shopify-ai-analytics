@@ -1,0 +1,12 @@
+# Python
+python-ai/venv/
+__pycache__/
+*.pyc
+
+# Rails
+rails-api/log/
+rails-api/tmp/
+
+# OS
+.DS_Store
+Thumbs.db
